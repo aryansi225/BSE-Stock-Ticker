@@ -15,3 +15,11 @@ Python 3,
 Pandas,
 Dash,
 Plotly.
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a stock ticker app using dash which gets data from quandl API by taking reference from dash and plotly documentation.
+
+Major Learnings => 
+Learnt how to use plotly and dash to create a dashboard for data visualization.
